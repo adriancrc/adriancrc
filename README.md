@@ -37,7 +37,16 @@ Soy Ingeniero Electromecánico graduado del **Instituto Tecnológico de Costa Ri
   <img src="https://github-readme-stats.vercel.app/api?username=adriancrc&show_icons=true&theme=radical" height="150" alt="Stats"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adriancrc&layout=compact&theme=radical" height="150" alt="Top Langs"/>
 </div>
+<div align="center">
+  <!-- Tarjeta del repo (se actualiza sola) -->
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=adriancrc&repo=Circulo-de-Mohr&theme=radical&cache_seconds=7200" height="150" alt="Repo Card: Circulo-de-Mohr"/>
 
+  <!-- Badge dinámico: lenguaje top del repo (lo decide GitHub/Linguist) -->
+  <img src="https://img.shields.io/github/languages/top/adriancrc/Circulo-de-Mohr?label=Top%20language&color=blue" height="28" alt="Top language: Circulo-de-Mohr"/>
+
+  <!-- (Opcional) Badge estático mientras se actualiza el conteo -->
+  <img src="https://img.shields.io/badge/language-100%25%20MATLAB-blue" height="28" alt="100% MATLAB (estático)"/>
+</div>
 ---
 
 ## 🔥 Racha de contribuciones
