@@ -35,7 +35,7 @@ Soy Ingeniero Electromecánico graduado del **Instituto Tecnológico de Costa Ri
 ## 📊 Estadísticas de GitHub
 <div align="center">
   <!-- Stats generales -->
-  <img src="https://github-readme-stats.vercel.app/api?username=adriancrc&show_icons=true&theme=radical" height="250" alt="Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=adriancrc&show_icons=true&theme=radical" height="300" alt="Stats"/>
 
   <!-- Lenguajes (gráfico circular) -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adriancrc&layout=pie&theme=radical&langs_count=10&cache_seconds=7200" height="250" alt="Top Langs (pie)"/>
