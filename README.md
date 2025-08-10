@@ -34,8 +34,8 @@ Soy Ingeniero Electromecánico graduado del **Instituto Tecnológico de Costa Ri
 
 ## 📊 Estadísticas de GitHub
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=adriancrc&show_icons=true&theme=radical" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adriancrc&layout=compact&theme=radical" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=adriancrc&show_icons=true&theme=radical" height="150" alt="Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adriancrc&layout=compact&theme=radical" height="150" alt="Top Langs"/>
 </div>
 
 ---
@@ -56,7 +56,9 @@ Soy Ingeniero Electromecánico graduado del **Instituto Tecnológico de Costa Ri
 ---
 
 ## 🐍 Contribuciones animadas
-![Snake animation](https://github.com/adriancrc/adriancrc/blob/output/github-contribution-grid-snake.svg)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/adriancrc/adriancrc/output/github-contribution-grid-snake.svg" alt="Snake animation">
+</p>
 
 ---
 
