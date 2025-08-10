@@ -55,11 +55,4 @@ Soy Ingeniero Electromecánico graduado del **Instituto Tecnológico de Costa Ri
 
 ---
 
-## 🐍 Contribuciones animadas
-<p align="center">
-  <img src="https://raw.githubusercontent.com/adriancrc/adriancrc/output/github-contribution-grid-snake.svg" alt="Snake animation">
-</p>
-
----
-
 ✨ _"La ingeniería es el arte de convertir ideas en realidad mediante ciencia, creatividad y precisión."_ ✨
