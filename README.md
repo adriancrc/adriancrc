@@ -47,7 +47,7 @@ Soy Ingeniero Electromecánico graduado del **Instituto Tecnológico de Costa Ri
 
 ## 🔥 Racha de contribuciones
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=adriancrc&theme=radical&cache_seconds=3600" alt="GitHub Streak"/>
+  <img src="https://streak-stats.onrender.com?user=adriancrc&theme=radical&cache_seconds=3600" alt="GitHub Streak (mirror)"/>
 </div>
 
 ---
